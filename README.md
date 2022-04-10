@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://sourceforge.net/projects/desktopify/">
+    <img src="https://a.fsdn.com/allura/p/desktopify/icon?1649542343&w=90">
+  </a>
+</p>
+
 ## Desktopify
 **Ubuntu AppImage installer**
 
