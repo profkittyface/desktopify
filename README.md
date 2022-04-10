@@ -11,6 +11,13 @@
 
 A utility that attempts to reduce complexity of AppImage software execution. Instead of manually running the AppImage, Desktopify creates shortcuts and places the executable in an installation folder.
 
+**Installation**
+```sh
+wget desktopify.tgz https://github.com/profkittyface/desktopify/releases/download/1.0/desktopify-1.0.tgz
+tar xvf desktopify-1.0.tgz
+sudo mv desktopify /usr/local/bin/desktopify
+```
+
 **Usage**
 ```sh
 desktopify list
